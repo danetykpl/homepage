@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://danetyk.pl/'
 languageCode = 'en-us'
 title = 'danetyk.pl'
 theme = "PaperMod"
