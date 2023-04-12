@@ -1,4 +1,4 @@
-baseURL = 'https://danetykpl.github.io/homepage/'
+baseURL = 'https://danetyk.pl/'
 languageCode = 'en-us'
 title = 'danetyk.pl'
 theme = "PaperMod"
