@@ -5,24 +5,23 @@
     <link>https://danetyk.pl/</link>
     <description>Recent content on danetyk.pl</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 12 Apr 2023 04:59:12 +0200</lastBuildDate><atom:link href="https://danetyk.pl/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://danetyk.pl/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Post</title>
-      <link>https://danetyk.pl/posts/first-post/</link>
-      <pubDate>Wed, 12 Apr 2023 04:59:12 +0200</pubDate>
+      <title>Second Post</title>
+      <link>https://danetyk.pl/second-post/</link>
+      <pubDate>Wed, 12 Apr 2023 05:04:04 +0200</pubDate>
       
-      <guid>https://danetyk.pl/posts/first-post/</guid>
-      <description>First post dasddaffd</description>
+      <guid>https://danetyk.pl/second-post/</guid>
+      <description>Second Post daasdasdsadasdadklfdklfkd</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://danetyk.pl/about/about/</link>
-      <pubDate>Wed, 12 Apr 2023 04:59:02 +0200</pubDate>
+      <title>First Post</title>
+      <link>https://danetyk.pl/first-post/</link>
+      <pubDate>Wed, 12 Apr 2023 05:03:58 +0200</pubDate>
       
-      <guid>https://danetyk.pl/about/about/</guid>
-      <description>O mnie dasdsdsdada</description>
+      <guid>https://danetyk.pl/first-post/</guid>
+      <description>First Post daasdasdsadasdadklfdklfkd</description>
     </item>
     
   </channel>

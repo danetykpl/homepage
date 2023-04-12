@@ -2,22 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://danetyk.pl/</loc>
-    <lastmod>2023-04-12T04:59:12+02:00</lastmod>
+    <loc>https://danetyk.pl/second-post/</loc>
+    <lastmod>2023-04-12T05:04:04+02:00</lastmod>
   </url><url>
-    <loc>https://danetyk.pl/posts/first-post/</loc>
-    <lastmod>2023-04-12T04:59:12+02:00</lastmod>
-  </url><url>
-    <loc>https://danetyk.pl/posts/</loc>
-    <lastmod>2023-04-12T04:59:12+02:00</lastmod>
-  </url><url>
-    <loc>https://danetyk.pl/about/about/</loc>
-    <lastmod>2023-04-12T04:59:02+02:00</lastmod>
-  </url><url>
-    <loc>https://danetyk.pl/about/</loc>
-    <lastmod>2023-04-12T04:59:02+02:00</lastmod>
+    <loc>https://danetyk.pl/first-post/</loc>
+    <lastmod>2023-04-12T05:03:58+02:00</lastmod>
   </url><url>
     <loc>https://danetyk.pl/categories/</loc>
+  </url><url>
+    <loc>https://danetyk.pl/</loc>
   </url><url>
     <loc>https://danetyk.pl/tags/</loc>
   </url>
