@@ -6,14 +6,14 @@
     <description>Recent content in Posts on danetyk.pl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Apr 2023 04:13:51 +0200</lastBuildDate><atom:link href="https://danetyk.pl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Apr 2023 04:59:12 +0200</lastBuildDate><atom:link href="https://danetyk.pl/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://danetyk.pl/posts/test/</link>
-      <pubDate>Wed, 12 Apr 2023 04:13:51 +0200</pubDate>
+      <title>First Post</title>
+      <link>https://danetyk.pl/posts/first-post/</link>
+      <pubDate>Wed, 12 Apr 2023 04:59:12 +0200</pubDate>
       
-      <guid>https://danetyk.pl/posts/test/</guid>
-      <description>dsadasddsadsadsafdsfdasasdasdds</description>
+      <guid>https://danetyk.pl/posts/first-post/</guid>
+      <description>First post dasddaffd</description>
     </item>
     
   </channel>
