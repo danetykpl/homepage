@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://danetyk.pl/</loc>
     <lastmod>2023-04-12T04:13:51+02:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://danetyk.pl/posts/</loc>
     <lastmod>2023-04-12T04:13:51+02:00</lastmod>
   </url><url>
-    <loc>/posts/test/</loc>
+    <loc>https://danetyk.pl/posts/test/</loc>
     <lastmod>2023-04-12T04:13:51+02:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://danetyk.pl/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://danetyk.pl/tags/</loc>
   </url>
 </urlset>
