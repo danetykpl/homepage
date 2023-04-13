@@ -1,4 +1,66 @@
 baseURL = 'https://danetyk.pl/'
-languageCode = 'en-us'
 title = 'danetyk.pl'
+description = "Wszystko o pracy z danymi na -> Blog | Facebook | GitHub | Kaggle | Discord"
 theme = "PaperMod"
+paginate = 5
+defaultContentLanguage = 'pl'
+languageCode = 'pl_PL'
+
+[[menu.main]]
+name = 'Archiwum'
+url = 'archives'
+
+[[menu.main]]
+name = 'Blog'
+url = '/'
+
+[[menu.main]]
+name = 'Szukaj'
+url = 'search/'
+
+[params.homeInfoParams]
+Content = """
+## O blogu 🌱
+Znajdziecie tutaj przede wszystkim artykuły związane w taki, czy inny sposób, z przetwarzaniem, analizą i modelowaniem
+danych z wykorzystaniem najpopularniejszych w branży technologii (np. Python, SQL).
+
+&nbsp;
+
+## Kontakt 📫
+W sprawach wszelakich piszcie na **kontakt@danetyk.pl**.
+
+&nbsp;
+
+## Media Społecznościowe 🤝
+Zapraszam Was również na Facebooka, GitHuba, Kaggle'a i Discorda. Na Facebooku znajdziecie newsy dotyczące
+funkcjonowania bloga. Na GitHubie znajdziecie artykuły w formie PDF, jak również kody źródłowe. Na Kaggle znajdziecie
+zestawy danych i notebooki. Na Discordzie natomiast możecie rozmawiać na temat wszystkiego tego, co teoretyczne i
+praktyczne w danetyce.
+"""
+
+[[params.socialIcons]]
+name = "facebook"
+url = "https://www.facebook.com/danetykpl"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/danetykpl"
+
+[[params.socialIcons]]
+name = "kaggle"
+url = "https://www.kaggle.com/danetykpl"
+
+[[params.socialIcons]]
+name = "discord"
+url = "https://discord.gg/sJbTqMsZEM"
+
+[params]
+ShowShareButtons = true
+ShowReadingTime = true
+dateFormat = "2 January 2006"
+ShowPostNavLinks = true
+ShowCodeCopyButtons = true
+env = "production"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]

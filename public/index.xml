@@ -5,25 +5,8 @@
     <link>https://danetyk.pl/</link>
     <description>Recent content on danetyk.pl</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 12 Apr 2023 05:04:04 +0200</lastBuildDate><atom:link href="https://danetyk.pl/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Second Post</title>
-      <link>https://danetyk.pl/posts/second-post/</link>
-      <pubDate>Wed, 12 Apr 2023 05:04:04 +0200</pubDate>
-      
-      <guid>https://danetyk.pl/posts/second-post/</guid>
-      <description>Second Post daasdasdsadasdadklfdklfkd</description>
-    </item>
+    <language>pl_PL</language><atom:link href="https://danetyk.pl/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>First Post</title>
-      <link>https://danetyk.pl/posts/first-post/</link>
-      <pubDate>Wed, 12 Apr 2023 05:03:58 +0200</pubDate>
-      
-      <guid>https://danetyk.pl/posts/first-post/</guid>
-      <description>First Post daasdasdsadasdadklfdklfkd</description>
-    </item>
     
   </channel>
 </rss>

@@ -5,8 +5,17 @@
     <link>https://danetyk.pl/posts/</link>
     <description>Recent content in Posts on danetyk.pl</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 12 Apr 2023 05:04:04 +0200</lastBuildDate><atom:link href="https://danetyk.pl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>pl_PL</language>
+    <lastBuildDate>Thu, 13 Apr 2023 06:54:35 +0200</lastBuildDate><atom:link href="https://danetyk.pl/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fourth Post</title>
+      <link>https://danetyk.pl/posts/fourth-post/</link>
+      <pubDate>Thu, 13 Apr 2023 06:54:35 +0200</pubDate>
+      
+      <guid>https://danetyk.pl/posts/fourth-post/</guid>
+      <description>dsdafd</description>
+    </item>
+    
     <item>
       <title>Second Post</title>
       <link>https://danetyk.pl/posts/second-post/</link>
@@ -22,7 +31,26 @@
       <pubDate>Wed, 12 Apr 2023 05:03:58 +0200</pubDate>
       
       <guid>https://danetyk.pl/posts/first-post/</guid>
-      <description>First Post daasdasdsadasdadklfdklfkd</description>
+      <description>First Post daasdasdsadasdadklfdklfkd
+Something ssddafd</description>
+    </item>
+    
+    <item>
+      <title>Third Post</title>
+      <link>https://danetyk.pl/posts/third-post/</link>
+      <pubDate>Fri, 18 Mar 2022 21:10:00 +0700</pubDate>
+      
+      <guid>https://danetyk.pl/posts/third-post/</guid>
+      <description>daasdasdsadasdadklfdklfkd</description>
+    </item>
+    
+    <item>
+      <title>Nowy Post</title>
+      <link>https://danetyk.pl/posts/nowy-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://danetyk.pl/posts/nowy-post/</guid>
+      <description>dsdafd</description>
     </item>
     
   </channel>
