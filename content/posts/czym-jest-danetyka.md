@@ -23,14 +23,14 @@ Ostatecznie, wieszczył, nastąpi połączenie metod matematycznych, metod staty
 do nowej, zunifikowanej, interdyscyplinarnej dziedziny skupiającej się na analizie danych.
 
 Swoje przemyślenia opisał dość szczegółowo w swoim artykule z 1962 roku zatytułowanym, notabene, _The Future of Data 
-Analysis_ [[1]](#bibliografia), w którym najprawdopodobniej jako pierwszy użył terminu _Data Analysis_ (pl. analiza 
-danych) w kontekście przetwarzania, analizy i modelowania danych w interdyscyplinarnym podejściu łączącym metody matematyczne, 
+Analysis_ [[1]](#bibliografia), w którym najprawdopodobniej jako pierwszy użył terminu _data analysis_ (pl. _analiza 
+danych_) w kontekście przetwarzania, analizy i modelowania danych w interdyscyplinarnym podejściu łączącym metody matematyczne, 
 statystyczne oraz informatyczne, korzystając z dobrodziejstw komputerów.
 
 Co ważne, zwracał on również uwagę, że analiza danych powinna się skupiać przede wszystkim na zrozumieniu danych 
 oraz zjawisk, które te dane opisują, a nie po prostu na dopasowywaniu istniejących modeli i teorii do danych w celu 
 ich wyjaśnienia. Ta zmiana dotychczasowego paradygmatu otworzyła drzwi dla eksploracyjnej analizy danych (ang. 
-_exploratory data analysis - EDA_), której głównym celem jest zrozumienie struktury danych i występujących w nich 
+_exploratory data analysis_ - EDA), której głównym celem jest zrozumienie struktury danych i występujących w nich 
 trendów oraz zależności, korzystając nie tylko z suchych liczb zwracanych przez statystyki opisowe, ale przede 
 wszystkim korzystając z dobrodziejstw graficznej reprezentacji danych, czyli metod ich wizualizacji. Tukey zwracał 
 również uwagę na konieczność traktowania EDA, jako procesu iteracyjnego, w ramach którego testujemy założenia 
@@ -146,7 +146,7 @@ modelowanie predykcyjne (ang. _predictive modelling_). Po drugie, aby uzyskać j
 i dostrzec istniejące w nich wzorce i zależności na poziomie, jakiego nie mogliśmy osiągnąć z wykorzystaniem EDA 
 oraz wnioskowania statystycznego - czyli tak zwane modelowanie opisowe (ang. _descriptive modelling_).
 
-> Możemy rozróżnić modelowanie predykcyjne oraz modelowanie opisowe.
+> Możemy więc wyróżnić modelowanie predykcyjne oraz modelowanie opisowe.
 
 Wśród najpopularniejszych technik wykorzystywanych w modelowaniu danych możemy wymienić:
 
@@ -176,22 +176,22 @@ tylko z ostatnich kilkunastu lat.
 * Rozkręca się _hype_ na sztuczną inteligencję (ang. _artificial intelligence_ - AI). 
 * Rok 2011 - Liczba ofert pracy dla danetyków skacze o 15 000%.
 * Sztuczna inteligencja stworzona przez IBM wygrywa program _Jeopardy!_
-* Rok 2012 - _Data scientist_ zostaje okrzyknięte najseksowniejszym stanowiskiem pracy na świecie przez Harvard [[3]](#bibliografia). 
+* Rok 2012 - _Data scientist_ zostaje okrzyknięte najseksowniejszym stanowiskiem pracy na świecie przez Harvard (cokolwiek to znaczy; ciekaw jestem metodologii stojącej za dojściem do tego wniosku) [[3]](#bibliografia). 
 * Rok 2013 - Według firmy IBM 90% wszystkich danych na świecie zostało wytworzonych w ciągu ostatnich dwóch lat.
 * Rok 2014 - _Data scientist_ zostaje okrzyknięte najseksowniejszym stanowiskiem pracy na świecie przez magazyn 
   _Forbes_ [[4]](#bibliografia). 
 * Rok 2015 - Dzięki wykorzystaniu uczenia głębokiego (ang. _deep learning_ - jednej z form AI) efektywność systemu 
   rozpoznawania mowy firmy Google skacze o 49%. Google zwiększyło również wykorzystanie uczenia maszynowego z dotychczasowego sporadycznego, do ponad 2 700 wewnętrznych projektów.
 * Rok 2016 - Sztuczna inteligencja o nazwie _AlphaGo_ stworzona przez firmę Deep Mind należącą do firmy Google pokonuje mistrza świata w grze _Go_.
-* Zaczyna się zainteresowanie tematem _data science_ w Polsce na poważnie.
+* I w końcu zaczyna się zainteresowanie tematem _data science_ w Polsce na poważnie.
 * Rok 2021 - Sztuczna inteligencja o nazwie _AlphaFold_ przewiduje struktury białek nieporównywalnie efektywniej niż 
   dotychczasowe metody komputerowe nadzorowane przez człowieka. Z tego co się orientuję, to na chwilę obecną 
   przewidziała struktury już praktycznie wszystkich białek znanych nauce. Warto napomknąć, że jeszcze do niedawna 
   niczym niezwykłym było robienie doktoratu w ramach którego odkrywano i badano strukturę JEDNEGO białka. Także ten...
 * Rok 2022 - Jason Allen wykorzystując obrazy wygenerowane przez sztuczną inteligencję _Midjourney_, wygrywa konkurs 
   artystyczny, pokonując artystów tworzących swoje prace ręcznie [[5]](#bibliografia).
-* Przełom roku 2022 i 2023 - Pojawia się _ChatGPT_ firmy/fundacji OpenAI oparte o ich model GPT-3 (teraz już GPT-4, a 
-  niedługo GPT-5), przez co wielu ludzi wykonujących wiele różnych zawodów zaczyna... trochę się martwić.
+* Przełom roku 2022 i 2023 - Pojawia się _ChatGPT_ firmy/fundacji OpenAI oparty o ich model GPT-3 (teraz już GPT-4, a 
+  niedługo GPT-5), przez co wielu ludzi wykonujących wiele różnych zawodów zaczyna... odrobinę się martwić.
 
 Oczywiście lista istotnych z punktu widzenia branży wydarzeń w ostatnich 20 latach jest o wiele obszerniejsza, ale 
 chciałem jedynie wywrzeć na Was pewne określone wrażenie. A mianowicie, świat danych i ich przetwarzania galopuje 
@@ -199,16 +199,16 @@ jak oszalały i w gruncie rzeczy nie wiadomo, co przyniesie jutrzejszy dzień. C
 mówią, że danetyka popełnia rozciągnięte w czasie samobójstwo z uwagi na rozwój AI, która może ostatecznie sprawić, 
 że dane "będą analizowały się same". Uważam jednak, że nawet jeżeli AI trafi pod danetyczne strzechy na dobre, to 
 będzie miejsce dla ludzi, którzy potrafią z niej korzystać, rozumieją jej działanie oraz to, co "wypluwa" w wyniku 
-swojego działania. Innymi słowy będą niejako pośredniczyć między światem zewnętrznym a technologią.
+swojego działania. Innymi słowy będą potrzebni ludzie, którzy będą niejako pośredniczyć między światem zewnętrznym a technologią, czyli w gruncie rzeczy między technologią a innymi ludźmi.
 
 ### No to czym jest ta danetyka?
 Uf, no właśnie - to czym jest ta danetyka? Na pewno jedną z najszybciej i najbardziej dynamicznie rozwijających się 
-dziedzin. W niespełna 50 lat zdążyła powstać, rozwinąć się i zagrozić swemu istnieniu (w wykonaniu człowieka) przez swój bezprecedensowy rozwój. 
-Oczywiście przesadzam i warto, aby spoglądając trzeźwo na otaczającą nas rzeczywistość rozumieć, 
-że przetwarzanie, analiza i modelowanie danych, czy to własnoręcznie, czy przy użyciu AI, będzie najważniejszą 
-dziedziną działalności człowieka w XXI wieku. Danetyka, to tłumaczenie danych na informacje, to 
-optymalizowanie procesów, zwiększenie ich efektywności, a co za tym idzie zmniejszenie kosztów finansowych i 
-energetycznych. Przyszłość należy do danych. Przyszłość należy do danetyki.
+dziedzin. W niespełna 50 lat zdążyła powstać, rozwinąć się i zagrozić stabilności finansowej jej twórcom przez swój bezprecedensowy rozwój. 
+Oczywiście najprawdopodobniej przesadzam i pomimo trudnego do przewidzenia rozwoju AI miejsce dla człowieka gdzieś w tym wszystkim
+na pewno się znajdzie, jak zawsze. Niemniej, danetyka, to tłumaczenie danych na informacje, to 
+optymalizowanie procesów, zwiększanie ich efektywności, a co za tym idzie zmniejszanie kosztów finansowych i 
+energetycznych, niezależnie od tego, kto lub co będzie odpowiedzialny/e za realizowanie tych procesów. 
+Wiadomo, że przyszłość należy do danych. Przyszłość należy do danetyki. (i AI hue hue hue)
 
 ---
 
