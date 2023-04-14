@@ -4,7 +4,7 @@ date: 2023-04-14T01:12:39+02:00
 draft: false
 tags: ["popularnonaukowy"]
 ---
-
+![](/images/posts/1_czym_jest_danetyka/cover_image.jpg)
 ### Na początek odrobina historii
 Jeżeli choć odrobinę interesujecie się programowaniem i tematami pokrewnymi, a ostatnich 10 lat nie spędziliście
 na Erasmusie wśród Amiszów, to nie ma opcji, żebyście nie spotkali się do tej pory z angielskim terminem _Data 
