@@ -1,10 +1,8 @@
 ---
 title: "Szukaj na blogu" # in any language you want
 layout: "search" # is necessary
-# url: "/archive"
-# description: "Description for Search"
-summary: "search"
-placeholder: ""
+#url: "/posts/"
+## description: "Description for Search"
+#summary: "search"
+#placeholder: ""
 ---
-
-dsdafd

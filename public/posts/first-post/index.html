@@ -7,8 +7,7 @@
 <meta name="robots" content="index, follow">
 <title>First Post | danetyk.pl</title>
 <meta name="keywords" content="">
-<meta name="description" content="First Post daasdasdsadasdadklfdklfkd
-Something ssddafd">
+<meta name="description" content="dsdafd">
 <meta name="author" content="">
 <link rel="canonical" href="https://danetyk.pl/posts/first-post/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.bf5f9f73cf17311d52cedbcda82c922e91b2f566d88a85ad9f5b5a08b586bd5f.css" integrity="sha256-v1&#43;fc88XMR1SztvNqCySLpGy9WbYioWtn1taCLWGvV8=" rel="preload stylesheet" as="style">
@@ -58,17 +57,15 @@ Something ssddafd">
 
     </style>
 </noscript><meta property="og:title" content="First Post" />
-<meta property="og:description" content="First Post daasdasdsadasdadklfdklfkd
-Something ssddafd" />
+<meta property="og:description" content="dsdafd" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://danetyk.pl/posts/first-post/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2023-04-12T05:03:58+02:00" />
-<meta property="article:modified_time" content="2023-04-12T05:03:58+02:00" />
+<meta property="article:published_time" content="2023-04-13T18:03:29+02:00" />
+<meta property="article:modified_time" content="2023-04-13T18:03:29+02:00" />
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="First Post"/>
-<meta name="twitter:description" content="First Post daasdasdsadasdadklfdklfkd
-Something ssddafd"/>
+<meta name="twitter:description" content="dsdafd"/>
 
 
 <script type="application/ld+json">
@@ -97,15 +94,15 @@ Something ssddafd"/>
   "@type": "BlogPosting",
   "headline": "First Post",
   "name": "First Post",
-  "description": "First Post daasdasdsadasdadklfdklfkd\nSomething ssddafd",
+  "description": "dsdafd",
   "keywords": [
     
   ],
-  "articleBody": "First Post daasdasdsadasdadklfdklfkd\nSomething ssddafd\n",
-  "wordCount" : "5",
+  "articleBody": "dsdafd\n",
+  "wordCount" : "1",
   "inLanguage": "pl",
-  "datePublished": "2023-04-12T05:03:58+02:00",
-  "dateModified": "2023-04-12T05:03:58+02:00",
+  "datePublished": "2023-04-13T18:03:29+02:00",
+  "dateModified": "2023-04-13T18:03:29+02:00",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://danetyk.pl/posts/first-post/"
@@ -168,7 +165,7 @@ Something ssddafd"/>
                 </a>
             </li>
             <li>
-                <a href="https://danetyk.pl/blog" title="Blog">
+                <a href="https://danetyk.pl/" title="Blog">
                     <span>Blog</span>
                 </a>
             </li>
@@ -188,35 +185,11 @@ Something ssddafd"/>
     <h1 class="post-title">
       First Post
     </h1>
-    <div class="post-meta"><span title='2023-04-12 05:03:58 +0200 CEST'>kwietnia 12, 2023</span>&nbsp;·&nbsp;1 min
+    <div class="post-meta"><span title='2023-04-13 18:03:29 +0200 CEST'>13 kwietnia 2023</span>&nbsp;·&nbsp;1 min
 
 </div>
-  </header> <div class="toc">
-    <details  open>
-        <summary accesskey="c" title="(Alt + C)">
-            <span class="details">Spis treści</span>
-        </summary>
-
-        <div class="inner"><ul>
-                <li>
-                    <a href="#first-post" aria-label="First Post">First Post</a><ul>
-                        <ul>
-                        
-                <li>
-                    <a href="#something" aria-label="Something">Something</a>
-                </li>
-            </ul>
-            </ul>
-            </li>
-            </ul>
-        </div>
-    </details>
-</div>
-
-  <div class="post-content"><h1 id="first-post">First Post<a hidden class="anchor" aria-hidden="true" href="#first-post">#</a></h1>
-<p>daasdasdsadasdadklfdklfkd</p>
-<h3 id="something">Something<a hidden class="anchor" aria-hidden="true" href="#something">#</a></h3>
-<p>ssddafd</p>
+  </header> 
+  <div class="post-content"><p>dsdafd</p>
 
 
   </div>
@@ -224,6 +197,7 @@ Something ssddafd"/>
   <footer class="post-footer">
     <ul class="post-tags">
     </ul>
+
 
 <div class="share-buttons">
     <a target="_blank" rel="noopener noreferrer" aria-label="share First Post on twitter"
@@ -340,6 +314,53 @@ Something ssddafd"/>
         }
     })
 
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'Kopiuj';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'Skopiowano!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'Kopiuj';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
 </script>
 </body>
 

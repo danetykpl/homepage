@@ -2,14 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://danetyk.pl/posts/czym-jest-danetyka/</loc>
+    <lastmod>2023-04-14T01:12:39+02:00</lastmod>
+  </url><url>
+    <loc>https://danetyk.pl/</loc>
+    <lastmod>2023-04-14T01:12:39+02:00</lastmod>
+  </url><url>
+    <loc>https://danetyk.pl/tags/popularnonaukowy/</loc>
+    <lastmod>2023-04-14T01:12:39+02:00</lastmod>
+  </url><url>
+    <loc>https://danetyk.pl/posts/</loc>
+    <lastmod>2023-04-14T01:12:39+02:00</lastmod>
+  </url><url>
+    <loc>https://danetyk.pl/tags/</loc>
+    <lastmod>2023-04-14T01:12:39+02:00</lastmod>
+  </url><url>
     <loc>https://danetyk.pl/archives/</loc>
   </url><url>
     <loc>https://danetyk.pl/categories/</loc>
   </url><url>
-    <loc>https://danetyk.pl/</loc>
-  </url><url>
     <loc>https://danetyk.pl/search/</loc>
-  </url><url>
-    <loc>https://danetyk.pl/tags/</loc>
   </url>
 </urlset>

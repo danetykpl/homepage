@@ -18,6 +18,11 @@ url = '/'
 name = 'Szukaj'
 url = 'search/'
 
+[[menu.main]]
+identifier = 'Tagi'
+name = 'Tagi'
+url = 'tags'
+
 [params.homeInfoParams]
 Content = """
 ## O blogu 🌱
