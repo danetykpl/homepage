@@ -203,9 +203,9 @@ swojego działania. Innymi słowy będą potrzebni ludzie, którzy będą niejak
 
 ### No to czym jest ta danetyka?
 Uf, no właśnie - to czym jest ta danetyka? Na pewno jedną z najszybciej i najbardziej dynamicznie rozwijających się 
-dziedzin. W niespełna 50 lat zdążyła powstać, rozwinąć się i zagrozić stabilności finansowej jej twórcom przez swój bezprecedensowy rozwój. 
+dziedzin. W niespełna 50 lat zdążyła powstać, rozwinąć się i zagrozić stabilności finansowej jej twórców i wyznawców przez swój bezprecedensowy rozwój. 
 Oczywiście najprawdopodobniej przesadzam i pomimo trudnego do przewidzenia rozwoju AI miejsce dla człowieka gdzieś w tym wszystkim
-na pewno się znajdzie, jak zawsze. Niemniej, danetyka, to tłumaczenie danych na informacje, to 
+na pewno się znajdzie, jak zawsze. Niemniej, kontynuując odpowiedź na główne pytanie postawione w tym artykule, danetyka, to tłumaczenie danych na informacje, to 
 optymalizowanie procesów, zwiększanie ich efektywności, a co za tym idzie zmniejszanie kosztów finansowych i 
 energetycznych, niezależnie od tego, kto lub co będzie odpowiedzialny/e za realizowanie tych procesów. 
 Wiadomo, że przyszłość należy do danych. Przyszłość należy do danetyki. (i AI hue hue hue)
@@ -234,7 +234,6 @@ Z góry dziękuję za zainteresowanie.
 ### Bibliografia
 1. Tukey JW (1962) The Future of Data Analysis. [Źródło](https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-33/issue-1/The-Future-of-Data-Analysis/10.1214/aoms/1177704711.full).
 2. Naur P (1974) Concise Survey of Computer Methods.
-
 3. Davenport TH & Patil DJ (2012) "Data Scientist: The Sexiest Job of the 21st Century". Harvard Business Review. [Źródło](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century). 
 4. Magyar J (2014) "Data Scientist: Sexiest Job Of The Century?". Forbes. [Źródło](https://www.forbes.com/sites/sap/2014/01/21/data-scientist-sexiest-job-of-the-century/?sh=1edf3248674b).
 5. Harwell D (2022) "He used AI to win a fine-arts competition. Was it cheating?" Washington Post. [Źródło](https://www.washingtonpost.com/technology/2022/09/02/midjourney-artificial-intelligence-state-fair-colorado/).
