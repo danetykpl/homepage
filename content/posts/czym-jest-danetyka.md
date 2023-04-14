@@ -15,8 +15,7 @@ historyjkę.
 Wcale nie tak dawno, bo w 1962 roku, ale również wcale nie tak blisko, bo na kampusie Uniwersytetu w Princeton,
 pomieszkiwał i popracowywał sobie za pieniądze amerykańskich podatników
 [John Tukey](https://en.wikipedia.org/wiki/John_Tukey). Był to jegomość o szczególnie
-wyróżniających się umiejętnościach we władaniu matematyką i statystyką, za co w pewnym momencie swojego życia został 
-nawet uhonorowany Nagrodą Nobla. John Tukey wyróżniał się jednak jak na swoje 
+wyróżniających się umiejętnościach we władaniu matematyką i statystyką (opracował między innymi szybką transformatę Fouriera, w skrócie FFT, a także wymyślił wykres skrzynkowy). John Tukey wyróżniał się jednak jak na swoje 
 czasy nie tylko umiejętnościami ścisłymi, ale również humanistycznymi, bo parał się, dość biegle zresztą,
 jasnowidztwem. Przewidział mianowicie, że w bliskiej przyszłości komputery znajdą swoje zastosowanie
 w rozwiązywaniu problemów statystycznych tak, jak do tej pory służyły w rozwiązywaniu problemów matematycznych.
