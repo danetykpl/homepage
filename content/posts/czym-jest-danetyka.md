@@ -2,9 +2,22 @@
 title: "Czym Jest Danetyka?"
 date: 2023-04-14T01:12:39+02:00
 draft: false
-tags: ["popularnonaukowy"]
+ShowToc: true
+TocOpen: true
+
+author: ["danetyk.pl"]
+tags: ["ogólne", "teoria"]
+
+cover:
+    image: /images/posts/1_czym_jest_danetyka/cover_image.jpg
+    # can also paste direct link from external site
+    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+    alt: "<alt text>"
+    caption: "<text>"
+    relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
-![](/images/posts/1_czym_jest_danetyka/cover_image.jpg)
+
+[//]: # (![]&#40;/images/posts/1_czym_jest_danetyka/cover_image.jpg&#41;)
 ### Na początek odrobina historii
 Jeżeli choć odrobinę interesujecie się programowaniem i tematami pokrewnymi, a ostatnich 10 lat nie spędziliście
 na Erasmusie wśród Amiszów, to nie ma opcji, żebyście nie spotkali się do tej pory z angielskim terminem _Data 
@@ -212,7 +225,7 @@ Wiadomo, że przyszłość należy do danych. Przyszłość należy do danetyki.
 
 ---
 
-### Autopromocja 🌱
+**Autopromocja 🌱**
 
 Zachęcam do zainteresowania się moimi szkoleniami, które tworzę dla Strefy Kursów:
 
