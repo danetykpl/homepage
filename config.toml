@@ -1,6 +1,6 @@
 baseURL = 'https://danetyk.pl/'
-title = 'danetyk.pl'
-description = "Wszystko o pracy z danymi na -> Blog | Facebook | GitHub | Kaggle | Discord"
+title = 'danetyk.pl | Wszystko o pracy z danymi'
+description = "Treści i materiały z zakresu Data Science, Data Engineering i Data Analysis, czyli wszystko o przetwarzaniu, eksploracji, analizie i modelowaniu danych. W skrócie: wszystko o danetyce :)"
 theme = "PaperMod"
 paginate = 5
 defaultContentLanguage = 'pl'
