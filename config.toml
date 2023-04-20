@@ -1,6 +1,6 @@
 baseURL = 'https://danetyk.pl/'
 title = 'danetyk.pl | Wszystko o danych'
-description = "Treści i materiały z zakresu Data Science, Data Engineering i Data Analysis, czyli wszystko o przetwarzaniu, eksploracji, analizie i modelowaniu danych. W skrócie: wszystko o danetyce :)"
+description = "Wszytko o Data Science, Data Engineering i Data Analysis, czyli wszystko o przetwarzaniu, eksploracji, analizie i modelowaniu danych. W skrócie: wszystko o danetyce ;) | Data Science | Data Engineering | Data Analysis | Danetyka | Danologia | Python | SQL"
 theme = "PaperMod"
 paginate = 5
 defaultContentLanguage = 'pl'
@@ -69,6 +69,8 @@ dateFormat = "2 January 2006"
 ShowPostNavLinks = true
 ShowCodeCopyButtons = true
 env = "production"
+description = "Wszytko o Data Science, Data Engineering i Data Analysis, czyli wszystko o przetwarzaniu, eksploracji, analizie i modelowaniu danych. W skrócie: wszystko o danetyce ;) | Data Science | Data Engineering | Data Analysis | Danetyka | Danologia | Python | SQL"
+keywords = "data science, data engineering, data analysis, danetyka, danetyk, danetyczka, danologia, danolog, analiza danych, przetwarzanie danych, modelowanie danych, dane, informacje, analityka, statystyka"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
