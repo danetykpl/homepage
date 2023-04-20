@@ -1,24 +1,23 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date}}
-draft: false
+title: "Markdown Bez Tajemnic"
+date: 2023-04-17T00:34:47+02:00
+draft: true
 
 ShowToc: true
 TocOpen: true
 
 author: ["author"]
-tags: ["ogólne", "teoria", "praktyka", "porady", "python", "sql", "r"]
+tags: ["poradnik", "markdown"]
 
 cover:
-    # Size: 1920x894
-    image: /images/posts/1_czym_jest_danetyka/cover_image.jpg
+    image: /images/posts/2_markdown_bez_tajemnic/cover_image.jpg
     # can also paste direct link from external site
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: "<alt text>"
     caption: "<text>"
     relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
-### Sekcja 1
+### Czym jest Markdown?
 Tekst
 
 ### Sekcja 2

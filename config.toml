@@ -6,6 +6,9 @@ paginate = 5
 defaultContentLanguage = 'pl'
 languageCode = 'pl_PL'
 
+# Google Analytics 4
+googleAnalyticsID = 'G-35NN9PBX18'
+
 [[menu.main]]
 name = 'Archiwum'
 url = 'archives'
